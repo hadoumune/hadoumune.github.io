@@ -1,0 +1,53 @@
+baseURL = "https://hadoumune.github.io/"
+languageCode = "en-us"
+title = "Pegion Chest"
+theme = "minimal"
+canonifyurls = true
+publishDir = "docs"
+[params]
+    author = "hatomune"
+    description = "Pegion Chest"
+    githubUsername = "#hadoumune"
+    accent = "red"
+    showBorder = true
+    backgroundColor = "white"
+    font = "M PLUS 1p"
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["c#"]
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "/about/"
+    name = "About"
+    weight = 2
+
+[[menu.main]]
+    url = "/game/"
+    name = "Games"
+    weight = 3
+
+[[menu.main]]
+    url = "/other/"
+    name = "Others"
+    weight = 4
+
+
+[[menu.icon]]
+    url = "mailto:pegionchest@pegionchest.net"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/hadoumune/"
+    name = "github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://twitter.com/hadoumune/"
+    name = "twitter"
+    weight = 3
