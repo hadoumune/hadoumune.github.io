@@ -1,63 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://hadoumune.github.io/other/</loc>
-    <lastmod>2020-10-11T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hadoumune.github.io/</loc>
-    <lastmod>2020-10-11T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hadoumune.github.io/other/privacypolicy/</loc>
-    <lastmod>2020-10-11T00:00:00+09:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://hadoumune.github.io/game/</loc>
-    <lastmod>2020-01-05T20:54:14+09:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hadoumune.github.io/game/glitchroom/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hadoumune.github.io/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hadoumune.github.io/other/</loc>
+    <lastmod>2020-10-11T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://hadoumune.github.io/other/privacypolicy/</loc>
+    <lastmod>2020-10-11T00:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://hadoumune.github.io/game/picaris/</loc>
     <lastmod>2020-01-05T20:54:14+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hadoumune.github.io/game/picton/</loc>
     <lastmod>2020-01-05T20:53:44+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hadoumune.github.io/about/about/</loc>
     <lastmod>2020-01-05T20:51:55+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hadoumune.github.io/about/</loc>
     <lastmod>2020-01-05T20:51:55+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hadoumune.github.io/posts/</loc>
-    <lastmod>2020-01-05T20:19:56+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hadoumune.github.io/posts/test/</loc>
-    <lastmod>2020-01-05T20:19:56+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hadoumune.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hadoumune.github.io/tags/</loc>
   </url>
-  
 </urlset>
