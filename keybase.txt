@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/hatomune
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pegionchest.net
+  * I am hatomune (https://keybase.io/hatomune) on keybase.
+  * I have a public key ASD3VTw8giwMVkq9UxgDFEEq7e_qBG-j--A0s-9rUqq1nAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200bca938dfc4bfe11e36dc16da38d9ef39b459bda2f74c59f6cd80afb45533a950a",
+      "host": "keybase.io",
+      "kid": "0120f7553c3c822c0c564abd53180314412aedefea046fa3fbe034b3ef6b52aab59c0a",
+      "uid": "dfd99962c4d1ea538fd22166c43aeb19",
+      "username": "hatomune"
+    },
+    "merkle_root": {
+      "ctime": 1680764081,
+      "hash": "924e55a2983294b3d35294d790e6213e8a54a67f2ce435940f3b359768c2f3381ee8ea66cacd67c5b9475aa02b373bdb5cc69914a9d13c88c56670941a90b9fe",
+      "hash_meta": "e99c8ab7d44fcbbbc78fe5e46f43774908d7365fc71fe5439c813b6358143406",
+      "seqno": 24299327
+    },
+    "service": {
+      "entropy": "MvCo9hetIRAVuZE2I+HePJnf",
+      "hostname": "pegionchest.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1680764171,
+  "expire_in": 504576000,
+  "prev": "e01ca2fc6a7b6ebac9caa6d916f871969e09bebe7b2f155ed7feb37bf0acbc2e",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg91U8PIIsDFZKvVMYAxRBKu3v6gRvo/vgNLPva1KqtZwKp3BheWxvYWTESpcCCMQg4Byi/Gp7brrJyqbZFvhxlp4Jvr57LxVe1/6ze/CsvC7EIEcV1DOBHNbz7kp0qmLXe5Zz9LrYmRxsvmEwbpN8URFXAgHCo3NpZ8RAp931L/nh88K0poB/16NIpZNxgzAUdytsQbN2pMH6h6JyJuBndV1WscQK2E5mvVXxAyO3+xF5rLZWpW/ZXHLUCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMAJroEyyD1WK3oPkOniySg2ryjyZK5l4dEUrNMlqSCzo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hatomune
+
+==================================================================
